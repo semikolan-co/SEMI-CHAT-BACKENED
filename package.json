@@ -1,0 +1,26 @@
+{
+  "name": "semi-chat-backened",
+  "version": "1.0.0",
+  "description": "www.semikolan.co",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/semikolan-co/SEMI-CHAT-BACKENED.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/semikolan-co/SEMI-CHAT-BACKENED/issues"
+  },
+  "homepage": "https://github.com/semikolan-co/SEMI-CHAT-BACKENED#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.13",
+    "nodemon": "^2.0.15",
+    "socket.io": "^4.4.0"
+  }
+}
